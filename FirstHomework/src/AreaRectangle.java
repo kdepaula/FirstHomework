@@ -1,4 +1,8 @@
-
+/**
+ * 
+ * @author kdepa_t74iu3m
+ *Katelyn DePaula Period 7
+ */
 public class AreaRectangle {
 
 	public static void main(String[] args)

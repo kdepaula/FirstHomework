@@ -1,4 +1,9 @@
-
+/**
+ * 
+ * @author kdepa_t74iu3m
+ * Katelyn DePaula Period 7
+ *
+ */
 public class CircleArea 
 {
 	    public static void main(String[] args) 
